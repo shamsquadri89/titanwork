@@ -1,5 +1,9 @@
 saturn stars
 cancer
 leo
-rader
-skull
+dader
+higher
+lower
+short 
+long
+
